@@ -30,3 +30,6 @@ These activities represent the growth of our API project throughout the semester
 | Milestone 3 | Like Activity 1, this was the biggest milestone in that we had to create our own database and a rest API that connected and interacted with that database. |
 | Milestone 4 | We created a front end for our API code. With this milestone we wanted to display the information in our API |
 | Milestone 5 | This was our finalized front end. With this website we could view,create,edit and delete any information from our API.  |
+
+# Conclusion
+The purpose of this course was to teach us both front end and back end development. With the website we created we learned how a website can interact with a Rest API and how that API interacts with a database. Each Activity and Milestone helped us slowly create a website with data.
