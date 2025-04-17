@@ -16,8 +16,17 @@ These activities represent the growth of our API project throughout the semester
 | Activity 0 | This activity had us do an NPM install and run a simple website for our API|
 | Activity 1 | This was the biggest activity out of the bunch. In this activity we had to create an entire Rest API with a connected Database.   |
 | Activity 2 | In this activity we created an Angular project to start our front end. |
-| Activity 3 | We created a front end website to display our Music album    |
-| Activity 4 | We added an HTTP Client Module to our Music App    |
-| Activity 5 | $80     |
-| Activity 6 | $420    |
-| Activity 7 | $420    |
+| Activity 3 | We created a front end website to display our Music album |
+| Activity 4 | We added an HTTP Client Module to our Music App |
+| Activity 5 | This was when we started to add structure to our front end. We pulled different code from Bootstrap to help display all the information on each album |
+| Activity 6 | This was a continuation of the last project. |
+| Activity 7 | After creating the front end we added different API responses such as, create, edit, and view |
+
+# Milestone Assignments
+| Milestone    | Description |
+| -------- | ------- |
+| Milestone 1 | There was no coding involved in this milestone. We created a proposal of what our goal was going to be |
+| Milestone 2 | After receiving instructor feedback we editted our project to create what our goal was |
+| Milestone 3 | Like Activity 1, this was the biggest milestone in that we had to create our own database and a rest API that connected and interacted with that database. |
+| Milestone 4 | We created a front end for our API code. With this milestone we wanted to display the information in our API |
+| Milestone 5 | This was our finalized front end. With this website we could view,create,edit and delete any information from our API.  |
