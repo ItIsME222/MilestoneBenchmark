@@ -1,0 +1,655 @@
+{
+    "albums": [
+        {
+            "albumId": 1,
+            "title": "Revolver",
+            "artist": "The Beatles",
+            "description": "Revolver is the seventh studio albums by the English rock band the Beatles. Released on 5 August 1966, it was the Beatles' final recording project before their retirement as live performers and marked the group's most overt use of studio technology up to that time, building on the advances of their late 1965 release Rubber Soul.",
+            "year": 1966,
+            "image": "https://m.media-amazon.com/images/I/91ffeWzPNpL._SL1500_.jpg",
+            "tracks": [
+                {
+                    "title": "Taxman"
+                },
+                {
+                    "title": "Eleanor Rigby"
+                },
+                {
+                    "title": "I'm Only Sleeping"
+                },
+                {
+                    "title": "Love You To"
+                },
+                {
+                    "title": "Here, There and Everywhere"
+                },
+                {
+                    "title": "Yellow Submarine"
+                },
+                {
+                    "title": "She Said She Said"
+                },
+                {
+                    "title": "Good Day Sunshine"
+                },
+                {
+                    "title": "And Your Bird Can Sing"
+                },
+                {
+                    "title": "For No One"
+                },
+                {
+                    "title": "Doctor Robert"
+                },
+                {
+                    "title": "I Want to Tell You"
+                },
+                {
+                    "title": "Got to Get You into My Life"
+                },
+                {
+                    "title": "Tomorrow Never Knows"
+                }
+            ]
+        },
+        {
+            "albumId": 3,
+            "title": "Rubber Soul",
+            "artist": "The Beatles",
+            "description": "Rubber Soul is the sixth studio albums by the English rock band the Beatles. It was released on 3 December 1965 in the United Kingdom, on EMI's Parlophone label, accompanied by the non-albums double A-side single \"Day Tripper\" / \"We Can Work It Out\".",
+            "year": 1965,
+            "image": "https://m.media-amazon.com/images/I/81EF5zXRFdL._SL1500_.jpg",
+            "tracks": [
+                {
+                    "title": "I've Just Seen a Face"
+                },
+                {
+                    "title": "Norwegian Wood (This Bird Has Flown)"
+                },
+                {
+                    "title": "You Won't See Me"
+                },
+                {
+                    "title": "Think for Yourself"
+                },
+                {
+                    "title": "The Word"
+                },
+                {
+                    "title": "Michelle"
+                },
+                {
+                    "title": "It's Only Love"
+                },
+                {
+                    "title": "Girl"
+                },
+                {
+                    "title": "I'm Looking Through You"
+                },
+                {
+                    "title": "In My Life"
+                },
+                {
+                    "title": "Wait"
+                },
+                {
+                    "title": "Run for Your Life"
+                }
+            ]
+        },
+        {
+            "albumId": 4,
+            "title": "Please Please Me",
+            "artist": "The Beatles",
+            "description": "Please Please Me is the debut studio albums by the English rock band the Beatles.",
+            "year": 1963,
+            "image": "https://m.media-amazon.com/images/I/61LdKbic+wL.jpg",
+            "tracks": [
+                {
+                    "title": "I Saw Her Standing There"
+                },
+                {
+                    "title": "Misery"
+                },
+                {
+                    "title": "Anna (Go to Him)"
+                },
+                {
+                    "title": "Chains"
+                },
+                {
+                    "title": "Boys"
+                },
+                {
+                    "title": "Ask Me Why"
+                },
+                {
+                    "title": "Please Please Me"
+                },
+                {
+                    "title": "Love Me Do"
+                },
+                {
+                    "title": "P.S. I Love You"
+                },
+                {
+                    "title": "Baby It's You"
+                },
+                {
+                    "title": "Do You Want to Know a Secret"
+                },
+                {
+                    "title": "A Taste of Honey"
+                },
+                {
+                    "title": "There's a Place"
+                },
+                {
+                    "title": "Twist and Shout"
+                }
+            ]
+        },
+        {
+            "albumId": 5,
+            "title": "With the Beatles",
+            "artist": "The Beatles",
+            "description": "With the Beatles is the second studio albums by the English rock band the Beatles.",
+            "year": 1963,
+            "image": "https://upload.wikimedia.org/wikipedia/en/0/0a/Withthebeatlescover.jpg",
+            "tracks": [
+                {
+                    "title": "It Won't Be Long"
+                },
+                {
+                    "title": "All I've Got to Do"
+                },
+                {
+                    "title": "All My Loving"
+                },
+                {
+                    "title": "Don't Bother Me"
+                },
+                {
+                    "title": "Little Child"
+                },
+                {
+                    "title": "Till There Was You"
+                },
+                {
+                    "title": "Please Mr. Postman"
+                },
+                {
+                    "title": "Roll Over Beethoven"
+                },
+                {
+                    "title": "Hold Me Tight"
+                },
+                {
+                    "title": "You Really Got a Hold on Me"
+                },
+                {
+                    "title": "I Wanna Be Your Man"
+                },
+                {
+                    "title": "Devil in Her Heart"
+                },
+                {
+                    "title": "Not a Second Time"
+                },
+                {
+                    "title": "Money (That's What I Want)"
+                }
+            ]
+        },
+        {
+            "albumId": 6,
+            "title": "A Hard Day's Night",
+            "artist": "The Beatles",
+            "description": "A Hard Day's Night is the third studio albums by the English rock band the Beatles, released on 10 July 1964, with side one containing songs from the soundtracks to their film of the same name.",
+            "year": 1964,
+            "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/HardDayUK.jpg",
+            "tracks": [
+                {
+                    "title": "A Hard Day's Night"
+                },
+                {
+                    "title": "I Should Have Known Better"
+                },
+                {
+                    "title": "If I Fell"
+                },
+                {
+                    "title": "I'm Happy Just to Dance with You"
+                },
+                {
+                    "title": "And I Love Her"
+                },
+                {
+                    "title": "Tell Me Why"
+                },
+                {
+                    "title": "Can't Buy Me Love"
+                },
+                {
+                    "title": "Any Time at All"
+                },
+                {
+                    "title": "I'll Cry Instead"
+                },
+                {
+                    "title": "Things We Said Today"
+                },
+                {
+                    "title": "When I Get Home"
+                },
+                {
+                    "title": "You Can't Do That"
+                },
+                {
+                    "title": "I'll Be Back"
+                }
+            ]
+        },
+        {
+            "albumId": 7,
+            "title": "Help!",
+            "artist": "The Beatles",
+            "description": "Help! is the fifth studio albums by English rock band the Beatles and the soundtracks from their film Help!. It was released on 6 August 1965.",
+            "year": 1965,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Help%21_%28The_Beatles_album_-_cover_art%29.jpg/220px-Help%21_%28The_Beatles_album_-_cover_art%29.jpg",
+            "tracks": [
+                {
+                    "title": "Help!"
+                },
+                {
+                    "title": "The Night Before"
+                },
+                {
+                    "title": "You've Got to Hide Your Love Away"
+                },
+                {
+                    "title": "I Need You"
+                },
+                {
+                    "title": "Another Girl"
+                },
+                {
+                    "title": "You're Going to Lose That Girl"
+                },
+                {
+                    "title": "Ticket to Ride"
+                },
+                {
+                    "title": "Act Naturally"
+                },
+                {
+                    "title": "It's Only Love"
+                },
+                {
+                    "title": "You Like Me Too Much"
+                },
+                {
+                    "title": "Tell Me What You See"
+                },
+                {
+                    "title": "I've Just Seen a Face"
+                },
+                {
+                    "title": "Yesterday"
+                },
+                {
+                    "title": "Dizzy Miss Lizzy"
+                }
+            ]
+        },
+        {
+            "albumId": 8,
+            "title": "Sgt. Pepper's Lonely Hearts Club Band",
+            "artist": "The Beatles",
+            "description": "Sgt. Pepper's Lonely Hearts Club Band is the eighth studio albums by the English rock band the Beatles. Released on 26 May 1967 in the United Kingdom and 2 June 1967 in the United States, it spent 27 weeks at number one on the UK albums Chart and 15 weeks at number one in the US.",
+            "year": 1967,
+            "image": "https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg?20210405225837",
+            "tracks": [
+                {
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band"
+                },
+                {
+                    "title": "With a Little Help from My Friends"
+                },
+                {
+                    "title": "Lucy in the Sky with Diamonds"
+                },
+                {
+                    "title": "Getting Better"
+                },
+                {
+                    "title": "Fixing a Hole"
+                },
+                {
+                    "title": "She's Leaving Home"
+                },
+                {
+                    "title": "Being for the Benefit of Mr. Kite!"
+                },
+                {
+                    "title": "Within You Without You"
+                },
+                {
+                    "title": "When I'm Sixty-Four"
+                },
+                {
+                    "title": "Lovely Rita"
+                },
+                {
+                    "title": "Good Morning Good Morning"
+                },
+                {
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)"
+                },
+                {
+                    "title": "A Day in the Life"
+                }
+            ]
+        },
+        {
+            "albumId": 9,
+            "title": "Magical Mystery Tour",
+            "artist": "The Beatles",
+            "description": "Magical Mystery Tour is an albums by the English rock band the Beatles that was released as a double EP in the United Kingdom and an LP in the United States.",
+            "year": 1967,
+            "image": "https://upload.wikimedia.org/wikipedia/en/e/e8/MagicalMysteryTourDoubleEPcover.jpg",
+            "tracks": [
+                {
+                    "title": "Magical Mystery Tour"
+                },
+                {
+                    "title": "The Fool on the Hill"
+                },
+                {
+                    "title": "Flying"
+                },
+                {
+                    "title": "Blue Jay Way"
+                },
+                {
+                    "title": "Your Mother Should Know"
+                },
+                {
+                    "title": "I Am the Walrus"
+                },
+                {
+                    "title": "Hello, Goodbye"
+                },
+                {
+                    "title": "Strawberry Fields Forever"
+                },
+                {
+                    "title": "Penny Lane"
+                },
+                {
+                    "title": "Baby, You're a Rich Man"
+                },
+                {
+                    "title": "All You Need Is Love"
+                }
+            ]
+        },
+        {
+            "albumId": 10,
+            "title": "The Beatles (White albums)",
+            "artist": "The Beatles",
+            "description": "The Beatles, also known as \"The White albums\", is the ninth studio albums by the English rock band the Beatles, released on 22 November 1968.",
+            "year": 1968,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/TheBeatles68LP.jpg",
+            "tracks": [
+                {
+                    "title": "Back in the U.S.S.R."
+                },
+                {
+                    "title": "Dear Prudence"
+                },
+                {
+                    "title": "Glass Onion"
+                },
+                {
+                    "title": "Ob-La-Di, Ob-La-Da"
+                },
+                {
+                    "title": "Wild Honey Pie"
+                },
+                {
+                    "title": "The Continuing Story of Bungalow Bill"
+                },
+                {
+                    "title": "While My Guitar Gently Weeps"
+                },
+                {
+                    "title": "Happiness Is a Warm Gun"
+                },
+                {
+                    "title": "Martha My Dear"
+                },
+                {
+                    "title": "I'm So Tired"
+                },
+                {
+                    "title": "Blackbird"
+                },
+                {
+                    "title": "Piggies"
+                },
+                {
+                    "title": "Rocky Raccoon"
+                },
+                {
+                    "title": "Don't Pass Me By"
+                },
+                {
+                    "title": "Why Don't We Do It in the Road?"
+                },
+                {
+                    "title": "I Will"
+                },
+                {
+                    "title": "Julia"
+                },
+                {
+                    "title": "Birthday"
+                },
+                {
+                    "title": "Yer Blues"
+                },
+                {
+                    "title": "Mother Nature's Son"
+                },
+                {
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey"
+                },
+                {
+                    "title": "Sexy Sadie"
+                },
+                {
+                    "title": "Helter Skelter"
+                },
+                {
+                    "title": "Long, Long, Long"
+                },
+                {
+                    "title": "Revolution 1"
+                },
+                {
+                    "title": "Honey Pie"
+                },
+                {
+                    "title": "Savoy Truffle"
+                },
+                {
+                    "title": "Cry Baby Cry"
+                },
+                {
+                    "title": "Revolution 9"
+                },
+                {
+                    "title": "Good Night"
+                }
+            ]
+        },
+        {
+            "albumId": 11,
+            "title": "Yellow Submarine",
+            "artist": "The Beatles",
+            "description": "Yellow Submarine is the tenth studio albums by English rock band the Beatles, released on 13 January 1969 in the United States and on 17 January 1969 in the United Kingdom.",
+            "year": 1969,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg/220px-TheBeatles-YellowSubmarinealbumcover.jpg",
+            "tracks": [
+                {
+                    "title": "Yellow Submarine"
+                },
+                {
+                    "title": "Only a Northern Song"
+                },
+                {
+                    "title": "All Together Now"
+                },
+                {
+                    "title": "Hey Bulldog"
+                },
+                {
+                    "title": "It's All Too Much"
+                },
+                {
+                    "title": "All You Need Is Love"
+                },
+                {
+                    "title": "Pepperland"
+                },
+                {
+                    "title": "Sea of Time"
+                },
+                {
+                    "title": "Sea of Holes"
+                },
+                {
+                    "title": "Sea of Monsters"
+                },
+                {
+                    "title": "March of the Meanies"
+                },
+                {
+                    "title": "Pepperland Laid Waste"
+                },
+                {
+                    "title": "Yellow Submarine in Pepperland"
+                }
+            ]
+        },
+        {
+            "albumId": 12,
+            "title": "Abbey Road",
+            "artist": "The Beatles",
+            "description": "Abbey Road is the eleventh studio albums by English rock band the Beatles, released on 26 September 1969 by Apple Records. The recording sessions for the albums were the last in which all four Beatles participated.",
+            "year": 1969,
+            "image": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg",
+            "tracks": [
+                {
+                    "title": "Come Together"
+                },
+                {
+                    "title": "Something"
+                },
+                {
+                    "title": "Maxwell's Silver Hammer"
+                },
+                {
+                    "title": "Oh! Darling"
+                },
+                {
+                    "title": "Octopus's Garden"
+                },
+                {
+                    "title": "I Want You (She's So Heavy)"
+                },
+                {
+                    "title": "Here Comes the Sun"
+                },
+                {
+                    "title": "Because"
+                },
+                {
+                    "title": "You Never Give Me Your Money"
+                },
+                {
+                    "title": "Sun King"
+                },
+                {
+                    "title": "Mean Mr. Mustard"
+                },
+                {
+                    "title": "Polythene Pam"
+                },
+                {
+                    "title": "She Came In Through the Bathroom Window"
+                },
+                {
+                    "title": "Golden Slumbers"
+                },
+                {
+                    "title": "Carry That Weight"
+                },
+                {
+                    "title": "The End"
+                },
+                {
+                    "title": "Her Majesty"
+                }
+            ]
+        },
+        {
+            "albumId": 13,
+            "title": "Let It Be",
+            "artist": "The Beatles",
+            "description": "Let It Be is the twelfth and final studio albums by the English rock band the Beatles. It was released on 8 May 1970, almost a month after the group's break-up.",
+            "year": 1970,
+            "image": "https://upload.wikimedia.org/wikipedia/en/2/25/LetItBe.jpg?20210101011032",
+            "tracks": [
+                {
+                    "title": "Two of Us"
+                },
+                {
+                    "title": "Dig a Pony"
+                },
+                {
+                    "title": "Across the Universe"
+                },
+                {
+                    "title": "I Me Mine"
+                },
+                {
+                    "title": "Dig It"
+                },
+                {
+                    "title": "Let It Be"
+                },
+                {
+                    "title": "Maggie Mae"
+                },
+                {
+                    "title": "I've Got a Feeling"
+                },
+                {
+                    "title": "One After 909"
+                },
+                {
+                    "title": "The Long and Winding Road"
+                },
+                {
+                    "title": "For You Blue"
+                },
+                {
+                    "title": "Get Back"
+                }
+            ]
+        }
+    ]
+}
